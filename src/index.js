@@ -1,11 +1,6 @@
 import React from "react";
+import ReactDOM from "react-dom";
 
-const App = () => {
-  return (
-    <div>
-      <h1>GPT-3</h1>
-    </div>
-  );
-};
+import App from "./App";
 
-export default App;
+ReactDOM.render(<App />, document.getElementById("root"));
