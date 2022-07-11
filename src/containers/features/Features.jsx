@@ -10,12 +10,12 @@ const featuresData = [
     text: "Generative Pre-trained Transformer 3 (GPT-3) is a highly advanced language model from OpenAI that can generate written text that virtually indistinguishable from text written by human.",
   },
   {
-    title: "Become ",
+    title: "Become trained in GPT-3",
     text: "Being trained on the dataset of half a trillion words, GPT-3 can recognize splendid linguistics patters incorporated in that.",
   },
   {
     title: "Specifying GPT-3: Brief Touch",
-    text: "For a short description of GPT-3, “ It is a language model that employs machine learning algorithms to translate text, answer questions, and compose text predictively. By examining an array of words, texts, or other relevant data, GPT-3 operates and develops on these examples to generate a completely authentic outcome in the context of a paragraph or an image.”",
+    text: "For a short description of GPT-3, “It is a language model that employs machine learning algorithms to translate text, answer questions, and compose text predictively.”",
   },
   {
     title: "Latest news",
