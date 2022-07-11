@@ -6,20 +6,20 @@ import "./features.css";
 
 const featuresData = [
   {
-    title: "Improving end distrusts instantly ",
-    text: "From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.",
+    title: "Example Refecting GPT-3 Working",
+    text: "Generative Pre-trained Transformer 3 (GPT-3) is a highly advanced language model from OpenAI that can generate written text that virtually indistinguishable from text written by human.",
   },
   {
-    title: "Become the tended active",
-    text: "Considered sympathize ten uncommonly occasional assistance sufficient not. Letter of on become he tended active enable to.",
+    title: "Become ",
+    text: "Being trained on the dataset of half a trillion words, GPT-3 can recognize splendid linguistics patters incorporated in that.",
   },
   {
-    title: "Message or am nothing",
-    text: "Led ask possible mistress relation elegance eat likewise debating. By message or am nothing amongst chiefly address.",
+    title: "Specifying GPT-3: Brief Touch",
+    text: "For a short description of GPT-3, “ It is a language model that employs machine learning algorithms to translate text, answer questions, and compose text predictively. By examining an array of words, texts, or other relevant data, GPT-3 operates and develops on these examples to generate a completely authentic outcome in the context of a paragraph or an image.”",
   },
   {
-    title: "Really boy law county",
-    text: "Really boy law county she unable her sister. Feet you off its like like six. Among sex are leave law built now. In built table in an rapid blush.",
+    title: "Latest news",
+    text: "Sharif Shameem, the founder of debuild.co, a startup that lets developers in making apps with least effort, has leveraged GPT-3 to produce code. He tweeted, “This is mind-blowing. With GPT-3, I built a layout generator where you just describe any layout you want, and it generates the JSX code for you.”",
   },
 ];
 
